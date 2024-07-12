@@ -8,7 +8,6 @@ class Login extends BaseController
     {
         echo view('common/header');
         return view('login');
-        echo view('common/footer');
     }
 
 

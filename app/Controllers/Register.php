@@ -8,7 +8,6 @@ class Register extends BaseController
     {
         echo view('common/header');
         return view('register');
-        echo view('common/footer');
     }
 
 
